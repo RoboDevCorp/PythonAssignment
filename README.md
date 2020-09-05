@@ -15,6 +15,7 @@ Step1: Enter the URL :<br>
 Run:
 
 Clone the project<br>
-Do cd <project-folder> and pip install requirements.txt<br>
-Run python manage.py makemigrations and python manage.py migrate<br>
-Deploy test server: python manage.py runserver
+```$ git clone https://github.com/RoboDevCorp/PythonAssignment.git```<br>
+Do ```cd <project-folder>``` and ```pip install requirements.txt```<br>
+Run ```python manage.py makemigrations``` and ```python manage.py migrate```<br>
+Deploy test server: ```python manage.py runserver```
